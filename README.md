@@ -35,6 +35,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [Jobfinder](https://github.com/Genys30/jobfinder) | Live browser-based index of open Israeli hi-tech roles, filterable by city, company, title, and seniority | ![](https://img.shields.io/github/stars/Genys30/jobfinder?style=social) |
 | [Shiftly](https://github.com/dmaman86/shiftly) | Work-hour and salary tracker implementing Israeli labor law, overtime, and holiday rates | ![](https://img.shields.io/github/stars/dmaman86/shiftly?style=social) |
 | [Job Opportunities](https://github.com/segev2341/job-opportunities) | LinkedIn job scraper targeting Israeli defense and cyber industry opportunities | ![](https://img.shields.io/github/stars/segev2341/job-opportunities?style=social) |
+| [Vue Companies Israel](https://github.com/JonathanDn/vue-companies-israel) | Curated list of Israeli product companies hiring Vue.js engineers | ![](https://img.shields.io/github/stars/JonathanDn/vue-companies-israel?style=social) |
 
 ## Finance & Banking
 
@@ -57,6 +58,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [YNAB Israel Consolidator](https://github.com/Shai2u/ynab-israel-consolidator) | Python pipeline normalizing Israeli bank and credit-card exports and reconciling them with YNAB via rule-based matching | ![](https://img.shields.io/github/stars/Shai2u/ynab-israel-consolidator?style=social) |
 | [Portfolio Dashboard](https://github.com/RBenhGit/Portfolio-Dashboard) | Streamlit investment portfolio dashboard for IBI broker reconstructing multi-market portfolios from Hebrew transaction exports | ![](https://img.shields.io/github/stars/RBenhGit/Portfolio-Dashboard?style=social) |
 | [Israeli Finance Scraper](https://github.com/orzarchi/israeli-finance-scraper) | Scripts scraping financial data from Israeli banks and credit cards, archiving and optionally forwarding to YNAB | ![](https://img.shields.io/github/stars/orzarchi/israeli-finance-scraper?style=social) |
+| [Israeli Banks Actual Budget Importer](https://github.com/tomerh2001/israeli-banks-actual-budget-importer) | Importer that pulls transactions from Israeli banks via israeli-bank-scrapers and loads them into Actual Budget | ![](https://img.shields.io/github/stars/tomerh2001/israeli-banks-actual-budget-importer?style=social) |
 
 ## Government & Open Data
 
@@ -66,6 +68,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [Knesset Refactor](https://github.com/AT020993/knesset_refactor) | Knesset data platform with OData ingestion, DuckDB warehouse, and Streamlit UI for parliamentary research | ![](https://img.shields.io/github/stars/AT020993/knesset_refactor?style=social) |
 | [PolicyEngine IL](https://github.com/PolicyEngine/policyengine-il) | Computational microsimulation model of Israel's tax-and-benefit system | ![](https://img.shields.io/github/stars/PolicyEngine/policyengine-il?style=social) |
 | [babynamesIL](https://github.com/aviezerl/babynamesIL) | R package containing Israeli baby names sourced from the Central Bureau of Statistics (LAMAS) | ![](https://img.shields.io/github/stars/aviezerl/babynamesIL?style=social) |
+| [BudgetKey](https://github.com/OpenBudget/BudgetKey) | Opens up the Israeli national budget with search, visualizations, and structured data from OpenBudget | ![](https://img.shields.io/github/stars/OpenBudget/BudgetKey?style=social) |
 
 ## Media
 
@@ -87,6 +90,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | Project | Description | Stars |
 |---|---|---|
 | [How the Lion Roars](https://github.com/peppermint-ice/how-the-lion-roars) | Visualisation and analysis tool for Israeli Home Front Command alerts during Operation Lion's Roar | ![](https://img.shields.io/github/stars/peppermint-ice/how-the-lion-roars?style=social) |
+| [Oref Alert](https://github.com/amitfin/oref_alert) | Home Assistant custom integration exposing Israeli Oref (Home Front Command) alerts as sensors | ![](https://img.shields.io/github/stars/amitfin/oref_alert?style=social) |
 
 ## Shopping & Retail
 
@@ -97,6 +101,9 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [Open Israeli Supermarkets — Parsers](https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-parsers) | Python package providing parsers to process raw Israeli supermarket data files into structured form | ![](https://img.shields.io/github/stars/OpenIsraeliSupermarkets/israeli-supermarket-parsers?style=social) |
 | [Open Israeli Supermarkets — Scrapers](https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-scarpers) | Python client library that scrapes pricing and inventory data from Israeli supermarket chains | ![](https://img.shields.io/github/stars/OpenIsraeliSupermarkets/israeli-supermarket-scarpers?style=social) |
 | [Supermarket Price Comparison](https://github.com/LirazGal/supermarket-price-comparison) | Real-time Israeli supermarket price comparison app (Rami Levy vs. Shufersal) built with Next.js and Python | ![](https://img.shields.io/github/stars/LirazGal/supermarket-price-comparison?style=social) |
+| [Price Scalper IL](https://github.com/roic03/Price-Scalper-IL) | Israeli price scraping and deal-finding system tracking 40K+ products across 1300+ stores | ![](https://img.shields.io/github/stars/roic03/Price-Scalper-IL?style=social) |
+| [Adora](https://github.com/Rani-Maman/Adora) | Chrome extension protecting Israeli consumers from dropshipping scams with real-time warnings on suspicious e-commerce sites | ![](https://img.shields.io/github/stars/Rani-Maman/Adora?style=social) |
+| [WhatsApp Deals Bot](https://github.com/michalrahimi29/whatsapp-deals-bot) | WhatsApp bot surfacing deals from Israeli stores with Fox Group Dreamcard integration | ![](https://img.shields.io/github/stars/michalrahimi29/whatsapp-deals-bot?style=social) |
 
 ## Smart Home
 
@@ -113,6 +120,12 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [Hormuz Index](https://github.com/ipalumbo73/hormuz-index) | Geopolitical early-warning dashboard for the Iran-USA-Israel crisis with event ingestion, risk indices, and escalation scenarios | ![](https://img.shields.io/github/stars/ipalumbo73/hormuz-index?style=social) |
 | [Jellyfish Bloom Predictor](https://github.com/talia-aharony/Jellyfish_Bloom_Predictor) | Predicts jellyfish blooms affecting beaches along Israel's Mediterranean coastline | ![](https://img.shields.io/github/stars/talia-aharony/Jellyfish_Bloom_Predictor?style=social) |
 | [Israel AI Compliance Toolkit](https://github.com/Yo-Yo-Tang/israel-ai-compliance-toolkit) | AI compliance framework for Israeli tech companies covering the EU AI Act, GDPR, and Israeli Privacy Law | ![](https://img.shields.io/github/stars/Yo-Yo-Tang/israel-ai-compliance-toolkit?style=social) |
+| [iHerb Checker](https://github.com/rootsbymenda/iherbchecker) | Checks whether iHerb supplements are prescription-only in Israel | ![](https://img.shields.io/github/stars/rootsbymenda/iherbchecker?style=social) |
+| [Better Rail](https://github.com/better-rail/app) | Alternative mobile client for Israel Railways | ![](https://img.shields.io/github/stars/better-rail/app?style=social) |
+| [Techmap](https://github.com/mluggy/techmap) | Map of Israeli tech companies | ![](https://img.shields.io/github/stars/mluggy/techmap?style=social) |
+| [Israel Hiking Map](https://github.com/IsraelHikingMap/Site) | Maps, route planning, and travel information for hiking and cycling in Israel | ![](https://img.shields.io/github/stars/IsraelHikingMap/Site?style=social) |
+| [Open Bus Map Search](https://github.com/hasadna/open-bus-map-search) | Public transport data tool surfacing Israeli bus reliability information for journalists, citizens, and officials | ![](https://img.shields.io/github/stars/hasadna/open-bus-map-search?style=social) |
+| [Israeli Open Source Companies](https://github.com/KaplanOpenSource/israeli-opensource-companies) | List of Israeli companies that create open source projects | ![](https://img.shields.io/github/stars/KaplanOpenSource/israeli-opensource-companies?style=social) |
 
 ---
 
@@ -121,6 +134,8 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | Index | Description |
 |---|---|
 | [Israeli AI Tools & Ecosystem](https://github.com/danielrosehill/Israeli-AI-Tools-And-Ecosystem) | AI-native projects: agents, agent skills, MCP servers, Hebrew language resources, communities, and ecosystem map. |
+| [Awesome Red Alerts](https://github.com/danielrosehill/Awesome-Red-Alerts) | Curated index of red alert (צבע אדום) civilian notification projects for Israel. |
+| [Home Assistant Index](https://github.com/danielrosehill/Home-Assistant-Index) | Index of Home Assistant projects, integrations, and automations — including Israeli-specific components. |
 | [Awesome Open Source Israel](https://github.com/lirantal/awesome-opensource-israel) | Broader awesome list of open source projects created by Israeli developers. |
 
 # Contributing
