@@ -87,6 +87,8 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 |---|---|---|
 | [Diralottery](https://github.com/ddark-il/diralottery) | Win-odds calculator for Israel's Mehir LeMishtaken subsidized housing lottery | ![](https://img.shields.io/github/stars/ddark-il/diralottery?style=social) |
 | [HomeAI](https://github.com/ADHDudi/homeAI) | Real-time real-estate investment analysis for Israeli cities using government open data | ![](https://img.shields.io/github/stars/ADHDudi/homeAI?style=social) |
+| [Yad2 Apartment Scraper](https://github.com/guyvolvo/yad2-apartment-scraper) | Self-hosted scraper for Yad2 apartment listings | ![](https://img.shields.io/github/stars/guyvolvo/yad2-apartment-scraper?style=social) |
+| [Yad2 Scraper](https://github.com/DavOstx7/yad2-scraper) | Python library for scraping Yad2 listings | ![](https://img.shields.io/github/stars/DavOstx7/yad2-scraper?style=social) |
 
 ## Safety & Emergency
 
