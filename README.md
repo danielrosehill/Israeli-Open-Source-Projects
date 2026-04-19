@@ -59,6 +59,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [Portfolio Dashboard](https://github.com/RBenhGit/Portfolio-Dashboard) | Streamlit investment portfolio dashboard for IBI broker reconstructing multi-market portfolios from Hebrew transaction exports | ![](https://img.shields.io/github/stars/RBenhGit/Portfolio-Dashboard?style=social) |
 | [Israeli Finance Scraper](https://github.com/orzarchi/israeli-finance-scraper) | Scripts scraping financial data from Israeli banks and credit cards, archiving and optionally forwarding to YNAB | ![](https://img.shields.io/github/stars/orzarchi/israeli-finance-scraper?style=social) |
 | [Israeli Banks Actual Budget Importer](https://github.com/tomerh2001/israeli-banks-actual-budget-importer) | Importer that pulls transactions from Israeli banks via israeli-bank-scrapers and loads them into Actual Budget | ![](https://img.shields.io/github/stars/tomerh2001/israeli-banks-actual-budget-importer?style=social) |
+| [Israeli Bank Firefly Importer](https://github.com/itairaz1/israeli-bank-firefly-importer) | Imports Israeli bank transactions into Firefly III | ![](https://img.shields.io/github/stars/itairaz1/israeli-bank-firefly-importer?style=social) |
 
 ## Government & Open Data
 
@@ -69,6 +70,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [PolicyEngine IL](https://github.com/PolicyEngine/policyengine-il) | Computational microsimulation model of Israel's tax-and-benefit system | ![](https://img.shields.io/github/stars/PolicyEngine/policyengine-il?style=social) |
 | [babynamesIL](https://github.com/aviezerl/babynamesIL) | R package containing Israeli baby names sourced from the Central Bureau of Statistics (LAMAS) | ![](https://img.shields.io/github/stars/aviezerl/babynamesIL?style=social) |
 | [BudgetKey](https://github.com/OpenBudget/BudgetKey) | Opens up the Israeli national budget with search, visualizations, and structured data from OpenBudget | ![](https://img.shields.io/github/stars/OpenBudget/BudgetKey?style=social) |
+| [Geolocations IL](https://github.com/yuvadm/geolocations-il) | Single GeoJSON file with geolocations of all major cities and towns in Israel | ![](https://img.shields.io/github/stars/yuvadm/geolocations-il?style=social) |
 
 ## Media
 
@@ -77,6 +79,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [AI News Portal Israel](https://github.com/RobertoG62/ai-news-portal-israel) | Hebrew-language Israeli AI news portal with daily automated content updates | ![](https://img.shields.io/github/stars/RobertoG62/ai-news-portal-israel?style=social) |
 | [IsraTV](https://github.com/BitBOY21/IsraTV-app-android-Israel-IPTV) | Android Jetpack Compose IPTV app for watching Israeli TV channels live with PiP | ![](https://img.shields.io/github/stars/BitBOY21/IsraTV-app-android-Israel-IPTV?style=social) |
 | [News](https://github.com/avivlevi/news) | Israeli news aggregator pulling top articles from Ynet, N12, Israel Hayom and C14 and clustering similar topics | ![](https://img.shields.io/github/stars/avivlevi/news?style=social) |
+| [ZipZup](https://github.com/szaionz/zipzup) | M3U tuner with XMLTV guide for Israeli TV channels and their websites | ![](https://img.shields.io/github/stars/szaionz/zipzup?style=social) |
 
 ## Real Estate
 
@@ -126,6 +129,7 @@ This is a sibling to [Israeli AI Tools & Ecosystem](https://github.com/danielros
 | [Israel Hiking Map](https://github.com/IsraelHikingMap/Site) | Maps, route planning, and travel information for hiking and cycling in Israel | ![](https://img.shields.io/github/stars/IsraelHikingMap/Site?style=social) |
 | [Open Bus Map Search](https://github.com/hasadna/open-bus-map-search) | Public transport data tool surfacing Israeli bus reliability information for journalists, citizens, and officials | ![](https://img.shields.io/github/stars/hasadna/open-bus-map-search?style=social) |
 | [Israeli Open Source Companies](https://github.com/KaplanOpenSource/israeli-opensource-companies) | List of Israeli companies that create open source projects | ![](https://img.shields.io/github/stars/KaplanOpenSource/israeli-opensource-companies?style=social) |
+| [py-weatheril](https://github.com/t0mer/py-weatheril) | Unofficial Python API wrapper for the Israel Meteorological Service (IMS) | ![](https://img.shields.io/github/stars/t0mer/py-weatheril?style=social) |
 
 ---
 
